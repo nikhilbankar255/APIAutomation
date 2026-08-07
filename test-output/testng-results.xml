@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-08-08T00:00:00 IST" name="Suite" finished-at="2026-08-08T00:00:10 IST" duration-ms="9505">
+    <groups>
+    </groups>
+    <test started-at="2026-08-08T00:00:00 IST" name="Test" finished-at="2026-08-08T00:00:10 IST" duration-ms="9505">
+      <class name="Chaining.PutRequest">
+        <test-method signature="test_updateUser(org.testng.ITestContext)[pri:0, instance:Chaining.PutRequest@a1153bc]" started-at="2026-08-08T00:00:08 IST" name="test_updateUser" finished-at="2026-08-08T00:00:09 IST" duration-ms="1243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1bb266b3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateUser -->
+      </class> <!-- Chaining.PutRequest -->
+      <class name="Chaining.deleteRequest">
+        <test-method signature="test_getUser(org.testng.ITestContext)[pri:0, instance:Chaining.deleteRequest@1aafa419]" started-at="2026-08-08T00:00:09 IST" name="test_getUser" finished-at="2026-08-08T00:00:10 IST" duration-ms="1111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1bb266b3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getUser -->
+      </class> <!-- Chaining.deleteRequest -->
+      <class name="Chaining.PostRequest">
+        <test-method signature="test_createUser(org.testng.ITestContext)[pri:0, instance:Chaining.PostRequest@7cc0cdad]" started-at="2026-08-08T00:00:01 IST" name="test_createUser" finished-at="2026-08-08T00:00:07 IST" duration-ms="5882" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1bb266b3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_createUser -->
+      </class> <!-- Chaining.PostRequest -->
+      <class name="Chaining.GetRequest">
+        <test-method signature="test_getUser(org.testng.ITestContext)[pri:0, instance:Chaining.GetRequest@7b2bbc3]" started-at="2026-08-08T00:00:07 IST" name="test_getUser" finished-at="2026-08-08T00:00:08 IST" duration-ms="1090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1bb266b3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getUser -->
+      </class> <!-- Chaining.GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
