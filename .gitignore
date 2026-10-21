@@ -1,0 +1,15 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build output
+target/
+test-output/
+bin/
+
+# Reports and logs
+reports/
+logs/
+screenshots/
+*.log
